@@ -1,0 +1,9 @@
+aiofiles==23.2.1
+anyio==4.3.0
+beautifulsoup4==4.12.3
+Flask==3.0.2
+python-json-logger==2.0.7
+python-telegram-bot==21.0.1
+Quart==0.19.4
+referencing==0.34.0
+requests==2.31.0
